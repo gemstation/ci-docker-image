@@ -4,7 +4,7 @@
 Run this container image locally:
 
 ```zsh
-docker run --rm -it --mount src=`pwd`,target=/source,type=bind ghcr.io/DegenFighter/contracts-builder:latest
+docker run --rm -it --mount src=`pwd`,target=/source,type=bind ghcr.io/degenfighter/contracts-builder:latest
 ```
 
 ### Publishing the new container image
