@@ -7,7 +7,7 @@ on:
 
 env:
     REGISTRY: ghcr.io
-    IMAGE_NAME: degenfighter/contracts-builder
+    IMAGE_NAME: warmosaic/contracts-builder
 
 jobs:
     container:
