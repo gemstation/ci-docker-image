@@ -9,7 +9,7 @@ This sets up:
 * Foundry
 * Solidity v0.8.21
 
-The latest image is always available at: https://ghcr.io/WarMosaic/contracts-builder:latest
+The latest image is always available at: https://ghcr.io/warmosaic/contracts-builder:latest
 
 ## Development
 
