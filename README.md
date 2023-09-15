@@ -1,15 +1,14 @@
-# contracts-builder
+# ci-docker-image
 
-This Docker image contains the base necessary to run CI builds for the WarMosaic [contracts](https://github.com/warmosaic/contracts) repo. 
+This Docker image contains the base necessary to run CI builds for [Gemforge](https://github.com/gemstation/gemforge).
 
 This sets up:
 
 * Node.js
-* PNPM
 * Foundry
 * Solidity v0.8.21
 
-The latest image is always available at: https://ghcr.io/warmosaic/contracts-builder:latest
+The latest image is always available at: https://ghcr.io/gemstation/ci-docker-image:latest
 
 ## Development
 

@@ -7,7 +7,7 @@ on:
 
 env:
     REGISTRY: ghcr.io
-    IMAGE_NAME: warmosaic/contracts-builder
+    IMAGE_NAME: gemstation/ci-docker-image
 
 jobs:
     container:
